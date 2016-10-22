@@ -8,7 +8,7 @@ Call<ReturnInfo> init(@Path("id")String id);
 ```
 **@GET @POST @Path**等注解的使用方法请看[这里](http://www.lanyimi.com/2016/10/08/retrofit%E6%B3%A8%E8%A7%A3%E4%BD%BF%E7%94%A8/)
 
-### 新建单列类Git
+### 新建单例类Git
 实例化Retrofit和GitService
 ```java
 public class Git{
